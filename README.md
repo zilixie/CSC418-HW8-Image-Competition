@@ -1,0 +1,1 @@
+# CSC418-HW8-Image-Competition
