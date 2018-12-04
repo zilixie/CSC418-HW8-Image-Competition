@@ -1,0 +1,4 @@
+/Users/xiezili/Desktop/submission/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xiezili/Desktop/submission/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xiezili/Desktop/submission/cmake-build-debug/CMakeFiles/hw2.dir
+/Users/xiezili/Desktop/submission/cmake-build-debug/CMakeFiles/raytracing.dir
